@@ -1,5 +1,4 @@
-# FreeCodeCamp
-Responsive Web Design
+# Responsive Web Design
 
 Link to codepen:
 
